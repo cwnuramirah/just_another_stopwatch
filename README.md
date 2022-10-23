@@ -1,17 +1,13 @@
-# yeah, it's another stopwatch app
-Built with Dart & Flutter <3
-
 ![](https://github.com/cwnuramirah/just_another_stopwatch/blob/master/banner.gif)
 
 ## Try Online Demo
 See this stopwatch in action online
-🔗
-
+	🔗
 
 ## Learning Outcome
 What I've learned from building this app:
-[x] - The fundamentals of Flutter
-[x] - Utilizing Duration & Stopwatch classes
+- [x] The fundamentals of Flutter
+- [x] Utilizing Duration & Stopwatch classes
 
 ## Getting Started
 
