@@ -1,7 +1,7 @@
 # yeah, it's another stopwatch app
 Built with Dart & Flutter <3
 
-![](https://github.com/just_another_stopwatch/banner.gif)
+![](https://github.com/cwnuramirah/just_another_stopwatch/blob/master/banner.gif)
 
 ## Try Online Demo
 See this stopwatch in action online
