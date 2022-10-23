@@ -2,7 +2,7 @@
 
 ## Try Online Demo
 See this stopwatch in action online
-<iframe src="https://cwnuramirah.github.io/just_another_stopwatch/#/"></iframe>
+🔗 https://cwnuramirah.github.io/just_another_stopwatch/
 
 ## Learning Outcome
 What I've learned from this project:
