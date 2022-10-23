@@ -2,12 +2,13 @@
 
 ## Try Online Demo
 See this stopwatch in action online
-	🔗
+<iframe src="https://cwnuramirah.github.io/just_another_stopwatch/#/"></iframe>
 
 ## Learning Outcome
-What I've learned from building this app:
+What I've learned from this project:
 - [x] The fundamentals of Flutter
 - [x] Utilizing Duration & Stopwatch classes
+- [x] Deploying Flutter WebApp to Github Page
 
 ## Getting Started
 
